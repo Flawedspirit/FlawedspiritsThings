@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "powered=false": {
+            "model": "fsrandomthings:block/amethyst_pressure_plate_up"
+        },
+        "powered=true": {
+            "model": "fsrandomthings:block/amethyst_pressure_plate_down"
+        }
+    }
+}

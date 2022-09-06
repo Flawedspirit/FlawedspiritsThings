@@ -1,0 +1,17 @@
+modLoader="javafml" #mandatory
+loaderVersion="[43,)"
+license="All rights reserved"
+
+[[mods]]
+modId="fsrandomthings"
+version="1.0"
+displayName="Flawed's Random Things"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="fsrandomthings.png"
+credits=""
+authors="Flawedspirit"
+
+description='''
+A mod that adds an assortment of random items I think are useful.
+'''
